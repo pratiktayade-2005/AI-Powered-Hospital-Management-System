@@ -1,0 +1,14 @@
+#vertual envirnment
+myenv/
+
+#python Cache
+*.pyc
+
+#Environment Variables
+.env
+
+*.db
+
+.vscode/
+
+.DS_Store
